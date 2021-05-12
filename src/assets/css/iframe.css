@@ -1,0 +1,21 @@
+/*
+  富文本样式
+*/
+html{
+    height: auto;
+    scroll:none;
+}
+body{
+    height: auto;
+    min-height: 0;
+    margin-bottom: 50px;
+    padding-bottom: 50px;
+    overflow: hidden;
+    font-family: -apple-system, "Helvetica Neue", Arial, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif !important;
+	  line-height:24px;
+}
+img{
+    width: 100%;
+    height: 450px;
+    padding: 10px 0;
+}
